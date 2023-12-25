@@ -39,7 +39,7 @@ aiocqhttp~=1.4.4
 tls-client
 python-dateutil~=2.8.2
 regex~=2023.6.3
-httpx~=0.24.1
+httpx~=0.26.0
 Quart==0.17.0
 creart~=0.3.0
 pydub~=0.25.1
